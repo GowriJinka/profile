@@ -1,22 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Resume"
+    url: files/IISc_JINKA_NAGA_SAI_GOWRI_M_TECH_CDS-2 (1).pdf
+  - title: "Visualisation"
+    url: files/IISc_JINKA_NAGA_SAI_GOWRI_M_TECH_CDS-2 (1).pdf
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
