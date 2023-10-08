@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
- :woman_technologist: I'm a Masters student at IISc Bangalore.
+I'm a Masters student at IISc Bangalore.
  
 
