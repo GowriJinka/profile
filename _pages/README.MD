@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "PROJECT"
+permalink: /Project/
+author_profile: true
+redirect_from:
+  - /Projects
+---
+
+{% include base_path %}
 # NRIS_data
 Analysis of Month-wise break-up of Non-Residential Indians (NRIs) Arrivals from 2015 to 2017 
 This project involves an Exploratory Data Analysis (EDA) on NRIs data in India for the years 2015, 2016, and 2017, with data collected for each month.
